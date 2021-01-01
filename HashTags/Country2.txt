@@ -1,0 +1,1815 @@
+AFGHANISTAN
+AF
+AFG
+ALAND ISLANDS
+AX
+ALA
+ALBANIA
+AL
+ALB
+ALGERIA
+DZ
+DZA
+AMERICAN SAMOA
+AS
+ASM
+ANDORRA
+AD
+AND
+ANGOLA
+AO
+AGO
+ANGUILLA
+AI
+AIA
+ANTARCTICA
+AQ
+ATA
+ANTIGUA AND BARBUDA
+AG
+ATG
+ARGENTINA
+AR
+ARG
+ARMENIA
+AM
+ARM
+ARUBA
+AW
+ABW
+AUSTRALIA
+AU
+AUS
+AUSTRIA
+AT
+AUT
+AZERBAIJAN
+AZ
+AZE
+BAHAMAS
+BS
+BHS
+BAHRAIN
+BH
+BHR
+BANGLADESH
+BD
+BGD
+BARBADOS
+BB
+BRB
+BELARUS
+BY
+BLR
+BELGIUM
+BE
+BEL
+BELIZE
+BZ
+BLZ
+BENIN
+BJ
+BEN
+BERMUDA
+BM
+BMU
+BHUTAN
+BT
+BTN
+BOLIVIA
+BO
+BOL
+BOSNIA AND HERZEGOVINA
+BA
+BIH
+BOTSWANA
+BW
+BWA
+BOUVET ISLAND
+BV
+BVT
+BRAZIL
+BR
+BRA
+BRITISH INDIAN OCEAN TERRITORY
+IO
+IOT
+BRUNEI DARUSSALAM
+BN
+BRN
+BULGARIA
+BG
+BGR
+BURKINA FASO
+BF
+BFA
+BURUNDI
+BI
+BDI
+
+
+
+CAMBODIA
+ KH
+ KHM
+
+
+
+CAMEROON
+ CM
+ CMR
+
+
+
+CANADA
+ CA
+ CAN
+
+
+
+CAPE VERDE
+ CV
+ CPV
+
+
+
+CAYMAN ISLANDS
+ KY
+ CYM
+
+
+
+CENTRAL AFRICAN REPUBLIC
+ CF
+ CAF
+
+
+
+CHAD (Tchad)
+ TD
+ TCD
+
+
+
+CHILE
+ CL
+ CHL
+
+
+
+CHINA
+ CN
+ CHN
+
+
+
+
+CHRISTMAS ISLAND
+ CX
+ CXR
+
+
+
+COCOS (KEELING) ISLANDS
+ CC
+ CCK
+
+
+
+COLOMBIA
+ CO
+ COL
+
+
+
+COMOROS
+ KM
+ COM
+
+
+CONGO, REPUBLIC OF
+ CG
+ COG
+
+
+
+CONGO, THE DEMOCRATIC REPUBLIC OF THE (formerly Zaire)
+ CD
+ COD
+
+
+
+COOK ISLANDS
+ CK
+ COK
+
+
+
+COSTA RICA
+ CR
+ CRI
+
+
+
+Ivory Coast
+ CI
+ CIV
+
+
+
+CROATIA (Hrvatska)
+ HR
+ HRV
+
+
+
+CUBA
+ CU
+ CUB
+
+
+CYPRUS
+ CY
+ CYP
+
+
+
+CZECH REPUBLIC
+ CZ
+ CZE
+
+
+
+DENMARK
+ DK
+ DNK
+
+
+
+DJIBOUTI
+ DJ
+ DJI
+ .dj
+
+
+DOMINICA
+ DM
+ DMA
+
+
+
+DOMINICAN REPUBLIC
+ DO
+ DOM
+
+
+
+ECUADOR
+ EC
+ ECU
+
+
+
+EGYPT
+ EG
+ EGY
+
+
+
+EL SALVADOR
+ SV
+ SLV
+
+
+
+EQUATORIAL GUINEA
+ GQ
+ GNQ
+
+
+
+ERITREA
+ ER
+ ERI
+
+
+
+ESTONIA
+ EE
+ EST
+
+
+
+ETHIOPIA
+ ET
+ ETH
+
+
+
+FAEROE ISLANDS
+ FO
+ FRO
+
+
+
+FALKLAND ISLANDS (MALVINAS)
+ FK
+ FLK
+
+
+
+FIJI
+ FJ
+ FJI
+
+
+
+FINLAND
+ FI
+ FIN
+
+
+
+FRANCE
+ FR
+ FRA
+
+
+
+FRENCH GUIANA
+ GF
+ GUF
+
+
+FRENCH POLYNESIA
+ PF
+ PYF
+
+
+
+FRENCH SOUTHERN TERRITORIES
+ TF
+ ATF
+
+
+
+GABON
+ GA
+ GAB
+
+
+
+GAMBIA
+ GM
+ GMB
+
+
+GEORGIA
+ GE
+ GEO
+
+
+
+GERMANY (Deutschland)
+ DE
+ DEU
+
+
+
+GHANA
+ GH
+ GHA
+
+
+
+GIBRALTAR
+ GI
+ GIB
+
+
+GREAT BRITAIN (United Kingdom)
+GB
+GBR
+
+
+
+GREECE
+ GR
+ GRC
+
+
+
+GREENLAND
+ GL
+ GRL
+
+
+
+GRENADA
+ GD
+ GRD
+
+
+
+GUADELOUPE
+ GP
+ GLP
+
+
+
+GUAM
+ GU
+ GUM
+
+
+
+GUATEMALA
+ GT
+ GTM
+
+
+GUERNSEY
+ GG
+ GGY
+
+
+
+GUINEA
+ GN
+ GIN
+
+
+
+GUINEA-BISSAU
+ GW
+ GNB
+
+
+
+GUYANA
+ GY
+ GUY
+
+
+
+HAITI
+ HT
+ HTI
+
+
+
+HEARD ISLAND AND MCDONALD ISLANDS
+ HM
+ HMD
+
+
+
+HONDURAS
+ HN
+ HND
+
+
+
+HONG KONG
+ HK
+ HKG
+
+
+HUNGARY
+ HU
+ HUN
+
+
+ICELAND
+ IS
+ ISL
+
+
+
+INDIA
+ IN
+ IND
+
+
+
+INDONESIA
+ ID
+ IDN
+
+
+
+IRAN (Islamic Republic of Iran)
+ IR
+ IRN
+
+
+
+IRAQ
+ IQ
+ IRQ
+
+
+
+IRELAND
+ IE
+ IRL
+
+
+
+
+ISLE OF MAN
+ IM
+ IMN
+
+
+
+ISRAEL
+ IL
+ ISR
+
+
+
+ITALY
+ IT
+ ITA
+
+
+
+JAMAICA
+ JM
+ JAM
+
+
+
+JAPAN
+ JP
+ JPN
+
+
+
+JERSEY
+ JE
+ JEY
+
+
+
+JORDAN
+ JO
+ JOR
+
+
+
+KAZAKHSTAN
+ KZ
+ KAZ
+
+
+
+KENYA
+ KE
+ KEN
+
+
+
+KIRIBATI
+ KI
+ KIR
+
+
+
+NORTH KOREA 
+ KP
+ PRK
+
+
+SOUTH KOREA 
+ KR
+ KOR
+
+
+KUWAIT
+ KW
+ KWT
+
+
+
+KYRGYZSTAN
+ KG
+ KGZ
+
+
+
+LAO PEOPLE'S DEMOCRATIC REPUBLIC
+ LA
+ LAO
+
+
+
+LATVIA
+ LV
+ LVA
+
+
+LEBANON
+ LB
+ LBN
+
+
+
+LESOTHO
+ LS
+ LSO
+
+
+
+LIBERIA
+ LR
+ LBR
+
+
+LIBYA (Libyan Arab Jamahirya)
+ LY
+ LBY
+
+
+
+LIECHTENSTEIN (F&uuml;rstentum Liechtenstein)
+ LI
+ LIE
+
+
+
+LITHUANIA
+ LT
+ LTU
+
+
+
+LUXEMBOURG
+ LU
+ LUX
+
+
+
+MACAO
+ MO
+ MAC
+
+
+
+MACEDONIA
+ MK
+ MKD
+
+
+
+MADAGASCAR
+ MG
+ MDG
+
+
+
+MALAWI
+ MW
+ MWI
+
+
+
+MALAYSIA
+ MY
+ MYS
+
+
+
+MALDIVES
+ MV
+ MDV
+
+
+
+MALI
+ ML
+ MLI
+ .ml
+ RMM
+ MLI
+ 466
+<TD WIDTH="10%">223</TD>
+
+
+MALTA
+ MT
+ MLT
+ .mt
+ M
+ MLT
+ 470
+<TD WIDTH="10%">356</TD>
+
+
+<TD WIDTH="40%"> <CENTER>
+<B>Country Name</B></CENTER></TD>
+ <CENTER>
+<B>ISO<BR>
+2-alpha</B></CENTER></TD>
+ <CENTER>
+<B>ISO<BR>
+3-alpha</B></CENTER></TD>
+ 
+<div align="center"><B>IANA</B><BR>
+<B>Internet</B></div></P></TD>
+<TD VALIGN=top WIDTH="10%"> 
+<div align="center"><B>UN<BR>
+Vehicle</B></div></P></TD>
+ <CENTER>
+<B>IOC<BR>
+Olympic</B></CENTER></TD>
+ <CENTER>
+<B>UN/ISO<BR>
+numeric</B></CENTER></TD>
+<TD WIDTH="10%"><div align="center"><strong>ITU<br>
+calling</strong></div></TD>
+
+
+MARSHALL ISLANDS
+ MH
+ MHL
+ .mh
+ &nbsp;
+ MHL
+ 584
+<TD WIDTH="10%">692</TD>
+
+
+MARTINIQUE
+ MQ
+ MTQ
+ .mq
+ &nbsp;
+ 
+ 474
+<TD WIDTH="10%">596</TD>
+
+
+MAURITANIA
+ MR
+ MRT
+ .mr
+ RIM
+ MTN
+ 478
+<TD WIDTH="10%">222</TD>
+
+
+MAURITIUS
+ MU
+ MUS
+ .mu
+ MS
+ MRI
+ 480
+<TD WIDTH="10%">230</TD>
+
+
+MAYOTTE
+ YT
+ MYT
+ .yt
+ &nbsp;
+ 
+ 175
+<TD WIDTH="10%">269</TD>
+
+
+MEXICO
+ MX
+ MEX
+ .mx
+ MEX
+ MEX
+ 484
+<TD WIDTH="10%">52</TD>
+
+
+MICRONESIA (Federated States of Micronesia)
+ FM
+ FSM
+ .fm
+ &nbsp;
+ FSM
+ 583
+<TD WIDTH="10%">691</TD>
+
+
+MOLDOVA
+ MD
+ MDA
+ .md
+ MD
+ MDA
+ 498
+<TD WIDTH="10%">373</TD>
+
+
+MONACO
+ MC
+ MCO
+ .mc
+ MC
+ MON
+ 492
+<TD WIDTH="10%">377</TD>
+
+
+MONGOLIA
+ MN
+ MNG
+ .mn
+ MGL
+ MGL
+ 496
+<TD WIDTH="10%">976</TD>
+
+
+<TD>MONTENEGRO</TD>
+<TD>ME</TD>
+<TD>MNE</TD>
+<TD>.me</TD>
+<TD>MNE</TD>
+<TD>MNE</TD>
+<TD>499</TD>
+<TD>382</TD>
+
+
+MONTSERRAT
+ MS
+ MSR
+ .ms
+ &nbsp;
+ 
+ 500
+<TD WIDTH="10%">1-664</TD>
+
+
+MOROCCO
+ MA
+ MAR
+ .ma
+ MA
+ MAR
+ 504
+<TD WIDTH="10%">212</TD>
+
+
+MOZAMBIQUE (Mo&ccedil;ambique)
+ MZ
+ MOZ
+ .mz
+ MOC
+ MOZ
+ 508
+<TD WIDTH="10%">258</TD>
+
+
+MYANMAR (formerly Burma)
+ MM
+ MMR
+ .mm
+ BUR
+ MYA
+ 104
+<TD WIDTH="10%">95</TD>
+
+</TABLE>
+ 
+<TABLE BORDER=1 WIDTH=800>
+
+NAMIBIA
+ NA
+ NAM
+ .na
+ NAM
+ NAM
+ 516
+<TD WIDTH="10%">264</TD>
+
+
+<TD WIDTH="40%"> <CENTER>
+<B>Country Name</B></CENTER></TD>
+ <CENTER>
+<B>ISO<BR>
+2-alpha</B></CENTER></TD>
+ <CENTER>
+<B>ISO<BR>
+3-alpha</B></CENTER></TD>
+ 
+<div align="center"><B>IANA</B><BR>
+<B>Internet</B></div></P></TD>
+<TD VALIGN=top WIDTH="10%"> 
+<div align="center"><B>UN<BR>
+Vehicle</B></div></P></TD>
+ <CENTER>
+<B>IOC<BR>
+Olympic</B></CENTER></TD>
+ <CENTER>
+<B>UN/ISO<BR>
+numeric</B></CENTER></TD>
+<TD WIDTH="10%"><div align="center"><strong>ITU<br>
+calling</strong></div></TD>
+
+
+NAURU
+ NR
+ NRU
+ .nr
+ NAU
+ NRU
+ 520
+<TD WIDTH="10%">674</TD>
+
+
+NEPAL
+ NP
+ NPL
+ .np
+ NEP
+ NEP
+ 524
+<TD WIDTH="10%">977</TD>
+
+
+NETHERLANDS
+ NL
+ NLD
+ .nl
+ NL
+ NED
+ 528
+<TD WIDTH="10%">31</TD>
+
+
+NETHERLANDS ANTILLES (obsolete)
+ AN
+ ANT
+ .an
+ NA
+ AHO
+ 530
+<TD WIDTH="10%">599</TD>
+
+
+NEW CALEDONIA
+ NC
+ NCL
+ .nc
+ &nbsp;
+ 
+ 540
+<TD WIDTH="10%">687</TD>
+
+
+NEW ZEALAND
+ NZ
+ NZL
+ .nz
+ NZ
+ NZL
+ 554
+<TD WIDTH="10%">64</TD>
+
+
+NICARAGUA
+ NI
+ NIC
+ .ni
+ NIC
+ NCA
+ 558
+<TD WIDTH="10%">505</TD>
+
+
+NIGER
+ NE
+ NER
+ .ne
+ RN
+ NIG
+ 562
+<TD WIDTH="10%">227</TD>
+
+
+NIGERIA
+ NG
+ NGA
+ .ng
+ WAN
+ NGR
+ 566
+<TD WIDTH="10%">234</TD>
+
+
+NIUE
+ NU
+ NIU
+ .nu
+ &nbsp;
+ 
+ 570
+<TD WIDTH="10%">683</TD>
+
+
+NORFOLK ISLAND
+ NF
+ NFK
+ .nf
+ &nbsp;
+ 
+ 574
+<TD WIDTH="10%">&nbsp;</TD>
+
+
+NORTHERN MARIANA ISLANDS
+ MP
+ MNP
+ .mp
+ &nbsp;
+ 
+ 580
+<TD WIDTH="10%">1-670</TD>
+
+
+NORWAY
+ NO
+ NOR
+ .no
+ N
+ NOR
+ 578
+<TD WIDTH="10%">47</TD>
+
+
+OMAN
+ OM
+ OMN
+ .om
+ &nbsp;
+ OMA
+ 512
+<TD WIDTH="10%">968</TD>
+
+
+PAKISTAN
+ PK
+ PAK
+ .pk
+ PK
+ PAK
+ 586
+<TD WIDTH="10%">92</TD>
+
+
+<TD WIDTH="40%"> <CENTER>
+<B>Country Name</B></CENTER></TD>
+ <CENTER>
+<B>ISO<BR>
+2-alpha</B></CENTER></TD>
+ <CENTER>
+<B>ISO<BR>
+3-alpha</B></CENTER></TD>
+ 
+<div align="center"><B>IANA</B><BR>
+<B>Internet</B></div></P></TD>
+<TD VALIGN=top WIDTH="10%"> 
+<div align="center"><B>UN<BR>
+Vehicle</B></div></P></TD>
+ <CENTER>
+<B>IOC<BR>
+Olympic</B></CENTER></TD>
+ <CENTER>
+<B>UN/ISO<BR>
+numeric</B></CENTER></TD>
+<TD WIDTH="10%"><div align="center"><strong>ITU<br>
+calling</strong></div></TD>
+
+
+PALAU
+ PW
+ PLW
+ .pw
+ &nbsp;
+ PLW
+ 585
+<TD WIDTH="10%">680</TD>
+
+
+PALESTINIAN TERRITORIES
+ PS
+ PSE
+ .ps
+ &nbsp;
+ PLE
+ 275
+<TD WIDTH="10%">970</TD>
+
+
+PANAMA
+ PA
+ PAN
+ .pa
+ PA
+ PAN
+ 591
+<TD WIDTH="10%">507</TD>
+
+
+PAPUA NEW GUINEA
+ PG
+ PNG
+ .pg
+ PNG
+ PNG
+ 598
+<TD WIDTH="10%">675</TD>
+
+
+PARAGUAY
+ PY
+ PRY
+ .py
+ PY
+ PAR
+ 600
+<TD WIDTH="10%">595</TD>
+
+
+PERU
+ PE
+ PER
+ .pe
+ PE
+ PER
+ 604
+<TD WIDTH="10%">51</TD>
+
+
+PHILIPPINES
+ PH
+ PHL
+ .ph
+ RP
+ PHI
+ 608
+<TD WIDTH="10%">63</TD>
+
+
+PITCAIRN
+ PN
+ PCN
+ .pn
+ &nbsp;
+ 
+ 612
+<TD WIDTH="10%">&nbsp;</TD>
+
+
+POLAND
+ PL
+ POL
+ .pl
+ PL
+ POL
+ 616
+<TD WIDTH="10%">48</TD>
+
+
+PORTUGAL
+ PT
+ PRT
+ .pt
+ P
+ POR
+ 620
+<TD WIDTH="10%">351</TD>
+
+
+PUERTO RICO
+ PR
+ PRI
+ .pr
+ &nbsp;
+ PUR
+ 630
+<TD WIDTH="10%">1</TD>
+
+
+QATAR
+ QA
+ QAT
+ .qa
+ Q
+ QAT
+ 634
+<TD WIDTH="10%">974</TD>
+
+
+R&Eacute;UNION
+ RE
+ REU
+ .re
+ &nbsp;
+ 
+ 638
+<TD WIDTH="10%">262</TD>
+
+
+ROMANIA
+ RO
+ ROU
+ .ro
+ RO
+ ROU
+ 642
+<TD WIDTH="10%">40</TD>
+
+
+RUSSIAN FEDERATION
+ RU
+ RUS
+ .ru
+ RUS
+ RUS
+ 643
+<TD WIDTH="10%">7</TD>
+
+
+<TD WIDTH="40%"> <CENTER>
+<B>Country Name</B></CENTER></TD>
+ <CENTER>
+<B>ISO<BR>
+2-alpha</B></CENTER></TD>
+ <CENTER>
+<B>ISO<BR>
+3-alpha</B></CENTER></TD>
+ 
+<div align="center"><B>IANA</B><BR>
+<B>Internet</B></div></P></TD>
+<TD VALIGN=top WIDTH="10%"> 
+<div align="center"><B>UN<BR>
+Vehicle</B></div></P></TD>
+ <CENTER>
+<B>IOC<BR>
+Olympic</B></CENTER></TD>
+ <CENTER>
+<B>UN/ISO<BR>
+numeric</B></CENTER></TD>
+<TD WIDTH="10%"><div align="center"><strong>ITU<br>
+calling</strong></div></TD>
+
+
+RWANDA
+ RW
+ RWA
+ .rw
+ RWA
+ RWA
+ 646
+<TD WIDTH="10%">250</TD>
+
+
+<TD>SAINT BARTH&Eacute;LEMY </TD>
+<TD>BL</TD>
+<TD>BLM</TD>
+<TD>.bl</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>652</TD>
+<TD>&nbsp;</TD>
+
+
+SAINT HELENA
+ SH
+ SHN
+ .sh
+ &nbsp;
+ 
+ 654
+<TD WIDTH="10%">290</TD>
+
+
+SAINT KITTS AND NEVIS
+ KN
+ KNA
+ .kn
+ &nbsp;
+ SKN
+ 659
+<TD WIDTH="10%">1-869</TD>
+
+
+SAINT LUCIA
+ LC
+ LCA
+ .lc
+ WL
+ LCA
+ 662
+<TD WIDTH="10%">1-758</TD>
+
+
+<TD>SAINT MARTIN (French portion) </TD>
+<TD>MF</TD>
+<TD>MAF</TD>
+<TD>.mf</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>663</TD>
+<TD>&nbsp;</TD>
+
+
+SAINT PIERRE AND MIQUELON
+ PM
+ SPM
+ .pm
+ &nbsp;
+ 
+ 666
+<TD WIDTH="10%">508</TD>
+
+
+SAINT VINCENT AND THE GRENADINES
+ VC
+ VCT
+ .vc
+ WV
+ VIN
+ 670
+<TD WIDTH="10%">1-784</TD>
+
+
+SAMOA (formerly Western Samoa)
+ WS
+ WSM
+ .ws
+ WS
+ SAM
+ 882
+<TD WIDTH="10%">685</TD>
+
+
+SAN MARINO (Republic of)
+ SM
+ SMR
+ .sm
+ RSM
+ SMR
+ 674
+<TD WIDTH="10%">378</TD>
+
+
+SAO TOME AND PRINCIPE
+ ST
+ STP
+ .st
+ &nbsp;
+ STP
+ 678
+<TD WIDTH="10%">239</TD>
+
+
+SAUDI ARABIA (Kingdom of Saudi Arabia)
+ SA
+ SAU
+ .sa
+ SA
+ KSA
+ 682
+<TD WIDTH="10%">966</TD>
+
+
+SENEGAL
+ SN
+ SEN
+ .sn
+ SN
+ SEN
+ 686
+<TD WIDTH="10%">221</TD>
+
+
+SERBIA (Republic of Serbia)
+ RS
+ SRB
+ .rs
+ &nbsp;
+ SRB
+ 688
+<TD WIDTH="10%">381</TD>
+
+
+SEYCHELLES
+ SC
+ SYC
+ .sc
+ SY
+ SEY
+ 690
+<TD WIDTH="10%">248</TD>
+
+
+SIERRA LEONE
+ SL
+ SLE
+ .sl
+ WAL
+ SLE
+ 694
+<TD WIDTH="10%">232</TD>
+
+
+SINGAPORE
+ SG
+ SGP
+ .sg
+ SGP
+ SIN
+ 702
+<TD WIDTH="10%">65</TD>
+
+
+<TD WIDTH="40%"> <CENTER>
+<B>Country Name</B></CENTER></TD>
+ <CENTER>
+<B>ISO<BR>
+2-alpha</B></CENTER></TD>
+ <CENTER>
+<B>ISO<BR>
+3-alpha</B></CENTER></TD>
+ 
+<div align="center"><B>IANA</B><BR>
+<B>Internet</B></div></P></TD>
+<TD VALIGN=top WIDTH="10%"> 
+<div align="center"><B>UN<BR>
+Vehicle</B></div></P></TD>
+ <CENTER>
+<B>IOC<BR>
+Olympic</B></CENTER></TD>
+ <CENTER>
+<B>UN/ISO<BR>
+numeric</B></CENTER></TD>
+<TD WIDTH="10%"><div align="center"><strong>ITU<br>
+calling</strong></div></TD>
+
+
+<TD>SINT MAARTEN</TD>
+<TD>SX</TD>
+<TD>SXM</TD>
+<TD>.sx</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>534</TD>
+<TD>599</TD>
+
+
+SLOVAKIA (Slovak Republic)
+ SK
+ SVK
+ .sk
+ SK
+ SVK
+ 703
+<TD WIDTH="10%">421</TD>
+
+
+SLOVENIA
+ SI
+ SVN
+ .si
+ SLO
+ SLO
+ 705
+<TD WIDTH="10%">386</TD>
+
+
+SOLOMON ISLANDS
+ SB
+ SLB
+ .sb
+ &nbsp;
+ SOL
+ 90
+<TD WIDTH="10%">677</TD>
+
+
+SOMALIA
+ SO
+ SOM
+ .so
+ SO
+ SOM
+ 706
+<TD WIDTH="10%">252</TD>
+
+
+SOUTH AFRICA (Zuid Afrika)
+ ZA
+ ZAF
+ .za
+ ZA
+ RSA
+ 710
+<TD WIDTH="10%">27</TD>
+
+</TABLE>
+ 
+<TABLE BORDER=1 WIDTH=800>
+
+SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS
+ GS
+ SGS
+ .gs
+ &nbsp;
+<TD VALIGN=top WIDTH="10%"> 
+ 239
+<TD WIDTH="10%">&nbsp;</TD>
+
+
+<TD>SOUTH SUDAN</TD>
+<TD>SS</TD>
+<TD>SSD</TD>
+<TD>.ss</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+
+
+<TD>SOVIET UNION (Internet code still used)</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>.su</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+
+
+SPAIN (Espa&ntilde;a)
+ ES
+ ESP
+ .es
+ E
+ ESP
+ 724
+<TD WIDTH="10%">34</TD>
+
+
+SRI LANKA (formerly Ceylon)
+ LK
+ LKA
+ .lk
+ CL
+ SRI
+ 144
+<TD WIDTH="10%">94</TD>
+
+
+SUDAN
+ SD
+ SDN
+ .sd
+ SUD
+ SUD
+ 736
+<TD WIDTH="10%">249</TD>
+
+
+SURINAME
+ SR
+ SUR
+ .sr
+ SME
+ SUR
+ 740
+<TD WIDTH="10%">597</TD>
+
+
+SVALBARD AND JAN MAYEN
+ SJ
+ SJM
+ .sj
+ &nbsp;
+ 
+ 744
+<TD WIDTH="10%">&nbsp;</TD>
+
+
+SWAZILAND
+ SZ
+ SWZ
+ .sz
+ SD
+ SWZ
+ 748
+<TD WIDTH="10%">268</TD>
+
+
+SWEDEN
+ SE
+ SWE
+ .se
+ S
+ SWE
+ 752
+<TD WIDTH="10%">46</TD>
+
+
+SWITZERLAND (Confederation of Helvetia)
+ CH
+ CHE
+ .ch
+ CH
+ SUI
+ 756
+<TD WIDTH="10%">41</TD>
+
+
+SYRIAN ARAB REPUBLIC
+ SY
+ SYR
+
+
+
+TAIWAN ("Chinese Taipei" for IOC)
+ TW
+ TWN
+
+
+
+TAJIKISTAN
+ TJ
+ TJK
+
+
+
+TANZANIA
+ TZ
+ TZA
+
+
+
+THAILAND
+ TH
+ THA
+
+
+
+TIMOR-LESTE (formerly East Timor)
+ TL
+ TLS
+
+
+
+TOGO
+ TG
+ TGO
+
+
+
+TOKELAU
+ TK
+ TKL
+
+
+
+TONGA
+ TO
+ TON
+ .to
+ &nbsp;
+ TGA
+ 776
+<TD WIDTH="10%">676</TD>
+
+
+TRINIDAD AND TOBAGO
+ TT
+ TTO
+
+
+
+TUNISIA
+ TN
+ TUN
+
+
+
+TURKEY
+ TR
+ TUR
+
+
+
+TURKMENISTAN
+ TM
+ TKM
+
+
+
+TURKS AND CAICOS ISLANDS
+ TC
+ TCA
+
+
+
+TUVALU
+ TV
+ TUV
+
+
+
+UGANDA
+ UG
+ UGA
+
+
+
+UKRAINE
+ UA
+ UKR
+
+
+UNITED ARAB EMIRATES
+ AE
+ ARE
+
+
+
+UNITED KINGDOM
+ GB
+ GBR
+
+
+
+UNITED STATES
+ US
+ USA
+
+
+
+UNITED STATES MINOR OUTLYING ISLANDS
+ UM
+ UMI
+
+
+
+URUGUAY
+ UY
+ URY
+
+
+
+UZBEKISTAN
+ UZ
+ UZB
+
+
+
+VANUATU
+ VU
+ VUT
+
+
+
+VATICAN CITY (Holy See)
+VA
+VAT
+VENEZUELA
+VE
+VEN
+VIETNAM
+VN
+VNM
+VIRGIN ISLANDS, BRITISH
+VG
+VGB
+VIRGIN ISLANDS, U.S.
+VI
+VIR
+WALLIS AND FUTUNA
+WF
+WLF
+WESTERN SAHARA (formerly Spanish Sahara)
+EH
+ESH
+YEMEN (Yemen Arab Republic)
+YE
+YEM
+ZAMBIA
+ZM
+ZMB
+ZIMBABWE
+ZW
+ZWE
+ 
+
+
